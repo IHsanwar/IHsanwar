@@ -18,6 +18,10 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/0-z4QLelA-AAAAAd/yunli-hsr.gif"  />
+</div>
+
 ###
 
 <h2 align="left">I code with</h2>
@@ -43,8 +47,12 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://tenor.com/view/yunli-hsr-food-eating-honkai-star-rail-gif-15270853393349149664"/>
+  <img height="200" src="https://media1.tenor.com/m/yXWF3VjH4QMAAAAC/yunli-bocchi.gif"  />
 </div>
+
+###
+
+<h2 align="left">My Social Media</h2>
 
 ###
 
