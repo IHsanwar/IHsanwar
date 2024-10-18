@@ -43,7 +43,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/6PQnBNtSRxcAAAAC/i-know-that-youll-be-by-my-side-noel-gallaghers-high-flying-birds.gif](https://media1.tenor.com/m/0-z4QLelA-AAAAAd/yunli-hsr.gif"  />
+  <img height="200" src="https://media1.tenor.com/m/0-z4QLelA-AAAAAd/yunli-hsr.gif"/>
 </div>
 
 ###
