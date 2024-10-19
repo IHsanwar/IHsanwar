@@ -18,6 +18,13 @@
 
 ###
 
+###
+
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/yXWF3VjH4QMAAAAC/yunli-bocchi.gif"  />
+</div>
+
+###
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/0-z4QLelA-AAAAAd/yunli-hsr.gif"  />
 </div>
@@ -44,13 +51,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/yXWF3VjH4QMAAAAC/yunli-bocchi.gif"  />
-</div>
-
-###
 
 <h2 align="left">My Social Media</h2>
 
