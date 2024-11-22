@@ -5,7 +5,7 @@
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/59344EmrRGIAAAAd/vueko.gif"  />
 </div>
-<p align="left">Teribble bugfixer</p>
+<p align="left">Nice to meet you whoever you are</p>
 
 ###
 
