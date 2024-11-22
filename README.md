@@ -2,6 +2,13 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/59344EmrRGIAAAAd/vueko.gif"  />
+</div>
+<p align="left">Teribble bugfixer</p>
+
+###
+
 <p align="left">My name is Ihsan Wardhana, a lazyy programmer that mainly uses python</p>
 
 ###
@@ -21,8 +28,8 @@
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/0-z4QLelA-AAAAAd/yunli-hsr.gif"  />
 </div>
+<p align="left">Teribble bugfixer</p>
 
-###
 
 <h2 align="left">I code with</h2>
 
