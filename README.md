@@ -28,7 +28,7 @@
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/0-z4QLelA-AAAAAd/yunli-hsr.gif"  />
 </div>
-<p align="left">Teribble bugfixer</p>
+
 
 
 <h2 align="left">I code with</h2>
@@ -56,7 +56,7 @@
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/yXWF3VjH4QMAAAAC/yunli-bocchi.gif"  />
 </div>
-
+<p align="left">Teribble bugfixer</p>
 ###
 
 <h2 align="left">My Social Media</h2>
