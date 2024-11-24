@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">✨ Creating  since 2020<br>📚 I'm currently learning Laravel<br>🎲 Fun fact: Did you know that There's high-speed Internet on the way up to Mount Everest.</p>
+<p align="left">✨ Creating  since 2020<br>📚 I'm currently learning Laravel</p>
 
 ###
 
