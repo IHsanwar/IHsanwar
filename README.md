@@ -20,9 +20,36 @@
 
 ###
 
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IHsanwar/IHsanwar/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IHsanwar/IHsanwar/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IHsanwar/IHsanwar/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
 <div align="center">
-  <img height="200" src="[https://media1.tenor.com/m/E4jTG5NsINYAAAAd/yunli-hsr.gif](https://media1.tenor.com/m/0-z4QLelA-AAAAAd/yunli-hsr.gif)"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IHsanwar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=IHsanwar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=IHsanwar&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<h3 align="center">If you want to talk feel free to reach me out!</h3>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/E4jTG5NsINYAAAAd/yunli-hsr.gif"  />
+</div>
+
 ###
 
 <h2 align="left">I code with</h2>
