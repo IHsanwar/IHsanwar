@@ -1,10 +1,16 @@
 ## Hi there 👋
 
+<div align="center">
+  <img height="150" src="https://media1.tenor.com/m/op7B27FNAqsAAAAd/vueroeruko-made-in-abyss.gif"  />
+</div>
+</div>
+
+###
 <h1 align="left">Welcome to my Github Account</h1>
 
 ###
 
-<p align="left">My name is Ihsan Wardhana, a lazyy programmer that mainly uses python</p>
+<p align="left">My name is Ihsan , a lazy programmer that mainly uses python</p>
 
 ###
 
@@ -12,13 +18,12 @@
 
 ###
 
-<p align="left">✨ Creating  since 2020<br>📚 I'm currently learning Laravel<br>🎲 Fun fact: Did you know that There's high-speed Internet on the way up to Mount Everest.</p>
+<p align="left">✨ Creating  since 2020<br>📚 I'm currently learning Odoo<br>
 
 ###
 
-<p align="left">Not really active rn</p>
 
-###
+
 
 <br clear="both">
 
@@ -74,10 +79,6 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://media1.tenor.com/m/op7B27FNAqsAAAAd/vueroeruko-made-in-abyss.gif"  />
-</div>
-</div>
 
 ###
 
