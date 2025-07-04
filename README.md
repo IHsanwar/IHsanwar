@@ -29,7 +29,7 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###<div align="left">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 40px; width: 40px;" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" style="height: 40px; width: 40px;" alt="laravel logo" />
@@ -50,12 +50,6 @@
 ###
 
 <br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IHsanwar/IHsanwar/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IHsanwar/IHsanwar/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IHsanwar/IHsanwar/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
