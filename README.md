@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Ihsan<br><br>- 🔭 I’m working as student<br>- 📚 I'm currently learning Odoo Development</p>
+<p align="left">I'm Ihsan<br><br>- 🔭 I’m a student at Pelita Nusantara Vocational Highschool <br>- 📚 I'm currently learning Odoo Development</p>
 
 ###
 
