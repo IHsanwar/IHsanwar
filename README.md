@@ -1,39 +1,35 @@
 <div align="center">
-  <img height="160" src="https://media1.tenor.com/m/op7B27FNAqsAAAAd/vueroeruko-made-in-abyss.gif" alt="Animated Banner" />
+  <img height="150" src="https://media1.tenor.com/m/op7B27FNAqsAAAAd/vueroeruko-made-in-abyss.gif"  />
 </div>
 
----
+###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ihsanwardhana/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BJBaUFyt9SHeDY4Ar4nOvhw%3D%3D" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/ihwr08/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
 
----
+###
 
-<h1 align="center">Hi there! 👋 I'm Ihsan</h1>
+<h1 align="center">Hello Everyone</h1>
 
-<p align="center">
-  💻 Vocational High School student passionate about Web Development, APIs, and AI  
-</p>
+###
 
----
+<h3 align="left">👩‍💻  About Me</h3>
 
-### 👨‍🎓 About Me
+###
 
-- 🎓 Student at **SMK Plus Pelita Nusantara**
-- 🛠️ Currently exploring **Odoo Development**
-- 🌱 Learning more about **backend, AI, and automation**
-- 💡 I enjoy building helpful tools & experimental projects
+<p align="left">I'm Ihsan<br><br>- 🔭 I’m working as student<br>- 📚 I'm currently learning Odoo Development</p>
 
----
+###
 
-### 🔧 Tools & Technologies
+<h3 align="left">🛠 Language and tools</h3>
 
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -53,21 +49,35 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
 </div>
 
----
+###
 
-### 📈 My GitHub Stats
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IHsanwar/IHsanwar/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IHsanwar/IHsanwar/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IHsanwar/IHsanwar/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IHsanwar&layout=compact&theme=merko&card_width=320&langs_count=6&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=IHsanwar&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=false" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IHsanwar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=IHsanwar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 </div>
 
----
+###
 
-### 📬 Let’s Connect!
+<h3 align="center">If you want to talk feel free to reach me out!</h3>
 
-<h3 align="center">Feel free to reach out and chat!</h3>
+###
 
 <div align="center">
-  <img height="180" src="https://media1.tenor.com/m/E4jTG5NsINYAAAAd/yunli-hsr.gif" alt="Thanks for visiting!" />
+  <img height="200" src="https://media1.tenor.com/m/E4jTG5NsINYAAAAd/yunli-hsr.gif"  />
 </div>
+
+###
