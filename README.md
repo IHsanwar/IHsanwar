@@ -69,7 +69,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/E4jTG5NsINYAAAAd/yunli-hsr.gif"  />
+  <img height="200" src="https://media1.tenor.com/m/E4jTG5NsINYAAAAd/yunli-hsr.gif" style="height: 180px;"/>
 </div>
 
 ###
