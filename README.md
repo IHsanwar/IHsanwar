@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media1.tenor.com/m/op7B27FNAqsAAAAd/vueroeruko-made-in-abyss.gif"  />
+  <img height="90" src="https://media1.tenor.com/m/op7B27FNAqsAAAAd/vueroeruko-made-in-abyss.gif"  />
 </div>
 
 ###
