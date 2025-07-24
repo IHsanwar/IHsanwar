@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Ihsan<br><br>- 🔭 I’m student at Pelita Nusantara Vocational Highschool <br>- 📚 I'm currently learning Odoo Development</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Website+Developer;Software+Developer;Backend+Developer" alt="Typing SVG" /></a>
 
 ###
 
