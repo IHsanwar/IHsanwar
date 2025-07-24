@@ -24,7 +24,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
+<p>My name is Ihsan Wardhana</p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Website+Developer;Software+Developer;Backend+Developer" alt="Typing SVG" /></a>
 
 ###
